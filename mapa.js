@@ -32,9 +32,9 @@ function initMap() {
     map: map,
     radius: 26,
   });
-  const escolaLayer = new google.maps.KmlLayer({
-    url: 'https://github.com/julioeducajlle/apoiamapa/blob/main/Unidades13072021.kml',
-    map: map,
+  var ctaLayer = new google.maps.KmlLayer({
+    url: 'https://raw.githubusercontent.com/julioeducajlle/apoiamapa/main/Unidades13072021.kml',
+    map: map
   });
 }
 
