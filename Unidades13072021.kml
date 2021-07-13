@@ -4,7 +4,7 @@
     <name>HeatMap</name>
     <Style id="icon-1899-6F0000-labelson">
       <IconStyle>
-        <color>ff00006f</color>
+        <color>ffffffff</color>
         <scale>1</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
@@ -14,7 +14,7 @@
     </Style>
     <Style id="icon-1899-910000-labelson">
       <IconStyle>
-        <color>ff000091</color>
+        <color>ffffffff</color>
         <scale>1</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
@@ -24,7 +24,7 @@
     </Style>
     <Style id="icon-1899-B30000-labelson">
       <IconStyle>
-        <color>ff0000b3</color>
+        <color>ffffffff</color>
         <scale>1</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
@@ -34,7 +34,7 @@
     </Style>
     <Style id="icon-1899-D50000-labelson">
       <IconStyle>
-        <color>ff0000d5</color>
+        <color>ffffffff</color>
         <scale>1</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
@@ -44,7 +44,7 @@
     </Style>
     <Style id="icon-1899-F70000-labelson">
       <IconStyle>
-        <color>ff0000f7</color>
+        <color>ffffffff</color>
         <scale>1</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
@@ -54,7 +54,7 @@
     </Style>
     <Style id="icon-1899-FF1A1A-labelson">
       <IconStyle>
-        <color>ff1a1aff</color>
+        <color>ffffffff</color>
         <scale>1</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
@@ -64,7 +64,7 @@
     </Style>
     <Style id="icon-1899-FF3C3C-labelson">
       <IconStyle>
-        <color>ff3c3cff</color>
+        <color>ffffffff</color>
         <scale>1</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
@@ -74,7 +74,7 @@
     </Style>
     <Style id="icon-1899-FF5E5E-labelson">
       <IconStyle>
-        <color>ff5e5eff</color>
+        <color>ffffffff</color>
         <scale>1</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
@@ -84,7 +84,7 @@
     </Style>
     <Style id="icon-1899-FF8080-labelson">
       <IconStyle>
-        <color>ff8080ff</color>
+        <color>ffffffff</color>
         <scale>1</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
@@ -94,7 +94,7 @@
     </Style>
     <Style id="icon-1899-FFA2A2-labelson">
       <IconStyle>
-        <color>ffa2a2ff</color>
+        <color>ffffffff</color>
         <scale>1</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
@@ -104,7 +104,7 @@
     </Style>
     <Style id="icon-1899-FFC3C3-labelson">
       <IconStyle>
-        <color>ffc3c3ff</color>
+        <color>ffffffff</color>
         <scale>1</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
@@ -114,7 +114,7 @@
     </Style>
     <Style id="icon-1899-FFE5E5-labelson">
       <IconStyle>
-        <color>ffe5e5ff</color>
+        <color>ffffffff</color>
         <scale>1</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal4/icon57.png</href>
