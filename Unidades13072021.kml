@@ -1,0 +1,3970 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mapa APOIA 2</name>
+    <description/>
+    <Style id="icon-1899-6F0000-labelson">
+      <IconStyle>
+        <color>ff00006f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-910000-labelson">
+      <IconStyle>
+        <color>ff000091</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-B30000-labelson">
+      <IconStyle>
+        <color>ff0000b3</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-D50000-labelson">
+      <IconStyle>
+        <color>ff0000d5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-F70000-labelson">
+      <IconStyle>
+        <color>ff0000f7</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FF1A1A-labelson">
+      <IconStyle>
+        <color>ff1a1aff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FF3C3C-labelson">
+      <IconStyle>
+        <color>ff3c3cff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FF5E5E-labelson">
+      <IconStyle>
+        <color>ff5e5eff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FF8080-labelson">
+      <IconStyle>
+        <color>ff8080ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FFA2A2-labelson">
+      <IconStyle>
+        <color>ffa2a2ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FFC3C3-labelson">
+      <IconStyle>
+        <color>ffc3c3ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-1899-FFE5E5-labelson">
+      <IconStyle>
+        <color>ffe5e5ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>HeatMap</name>
+      <Placemark>
+        <name>EM Hilda Anna Krisch (Enf.)</name>
+        <description><![CDATA[Value: 25<br>Latitude: -26.260890646200394<br>Longitude: -48.80457377302897<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-6F0000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>25.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.260890646200394</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.80457377302897</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.804573773029,-26.2608906462004,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Castello Branco (Pres.) (Extensão)</name>
+        <description><![CDATA[Value: 20<br>Latitude: -26.3031363764939<br>Longitude: -48.8132642644319<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-910000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>20.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.3031363764939</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.8132642644319</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8132642644319,-26.3031363764939,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Karin Barkemeyer (Profª)</name>
+        <description><![CDATA[Value: 17<br>Latitude: -26.29212588648252<br>Longitude: -48.909934715357174<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-910000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>17.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.29212588648252</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.909934715357174</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9099347153572,-26.2921258864825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Valente Simioni (Pe.)</name>
+        <description><![CDATA[Value: 17<br>Latitude: -26.273181435362535<br>Longitude: -48.81308354419287<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-910000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>17.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.273181435362535</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.81308354419287</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8130835441929,-26.2731814353625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Eladir Skibinski (Profª)</name>
+        <description><![CDATA[Value: 16<br>Latitude: -26.248973540831486<br>Longitude: -48.797345384672525<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-B30000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>16.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.248973540831486</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.797345384672525</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7973453846725,-26.2489735408315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Jaime de B. Câmara (dom)</name>
+        <description><![CDATA[Value: 16<br>Latitude: -26.276297793509176<br>Longitude: -48.804087719056554<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-B30000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>16.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.276297793509176</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.804087719056554</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8040877190566,-26.2762977935092,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Max Colin (Pref.)</name>
+        <description><![CDATA[Value: 16<br>Latitude: -26.282601551821973<br>Longitude: -48.81858611720686<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-B30000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>16.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.282601551821973</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.81858611720686</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8185861172069,-26.282601551822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM João Costa</name>
+        <description><![CDATA[Value: 15<br>Latitude: -26.340687085979777<br>Longitude: -48.81465765953443<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-D50000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>15.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.340687085979777</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.81465765953443</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8146576595344,-26.3406870859798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Valentim João da Rocha</name>
+        <description><![CDATA[Value: 15<br>Latitude: -26.286849922683302<br>Longitude: -48.903354409262526<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-D50000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>15.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.286849922683302</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.903354409262526</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9033544092625,-26.2868499226833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Estrelinha Brilhante</name>
+        <description><![CDATA[Value: 13<br>Latitude: -26.341436713238007<br>Longitude: -48.81404418467065<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-D50000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>13.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.341436713238007</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.81404418467065</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8140441846706,-26.341436713238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Namir Alfredo Zattar</name>
+        <description><![CDATA[Value: 13<br>Latitude: -26.236851566851232<br>Longitude: -48.8068149730293<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-D50000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>13.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.236851566851232</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.8068149730293</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8068149730293,-26.2368515668512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM João B. Silveira Jr. (Prof.)</name>
+        <description><![CDATA[Value: 12<br>Latitude: -26.351830018430867<br>Longitude: -48.820102301862704<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-F70000-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>12.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.351830018430867</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.820102301862704</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8201023018627,-26.3518300184309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Silvia Regina Cavalheiro</name>
+        <description><![CDATA[Value: 11<br>Latitude: -26.36004793140738<br>Longitude: -48.80784960001302<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FF1A1A-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>11.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.36004793140738</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.80784960001302</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.807849600013,-26.3600479314074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Emílio P. Roberto Hardt</name>
+        <description><![CDATA[Value: 10<br>Latitude: -26.177916916349663<br>Longitude: -48.91321017303063<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FF1A1A-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>10.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.177916916349663</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.91321017303063</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9132101730306,-26.1779169163497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Maria Regina Leal (Profª)</name>
+        <description><![CDATA[Value: 10<br>Latitude: -26.280805005609107<br>Longitude: -48.78616867487828<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FF1A1A-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>10.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.280805005609107</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.78616867487828</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7861686748783,-26.2808050056091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Fátima</name>
+        <description><![CDATA[Value: 9<br>Latitude: -26.331903498984865<br>Longitude: -48.81060904234238<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FF3C3C-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>9.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.331903498984865</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.81060904234238</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8106090423424,-26.3319034989849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Anaburgo</name>
+        <description><![CDATA[Value: 9<br>Latitude: -26.267867902453126<br>Longitude: -48.924375886521716<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FF3C3C-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>9.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.267867902453126</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.924375886521716</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9243758865217,-26.2678679024531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Luiz Gomes (Pref.)</name>
+        <description><![CDATA[Value: 9<br>Latitude: -26.323805657943254<br>Longitude: -48.79906981535647<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FF3C3C-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>9.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.323805657943254</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.79906981535647</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7990698153565,-26.3238056579433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Lírio do Campo</name>
+        <description><![CDATA[Value: 8<br>Latitude: -26.317665164523575<br>Longitude: -48.814949288370556<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FF3C3C-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>8.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.317665164523575</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.814949288370556</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8149492883706,-26.3176651645236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM João de Oliveira</name>
+        <description><![CDATA[Value: 8<br>Latitude: -26.325419857416886<br>Longitude: -48.80891797302777<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FF3C3C-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>8.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.325419857416886</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.80891797302777</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8089179730278,-26.3254198574169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Plácido Xavier Vieira</name>
+        <description><![CDATA[Value: 8<br>Latitude: -26.352542091802135<br>Longitude: -48.84451973069852<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FF3C3C-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>8.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.352542091802135</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.84451973069852</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8445197306985,-26.3525420918021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Wittich Freitag (Pref.)</name>
+        <description><![CDATA[Value: 8<br>Latitude: -26.25233556192897<br>Longitude: -48.799630290221344<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FF3C3C-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>8.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.25233556192897</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.799630290221344</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7996302902213,-26.252335561929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Zé Carioca</name>
+        <description><![CDATA[Value: 7<br>Latitude: -26.3302270214176<br>Longitude: -48.83650893254844<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FF5E5E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>7.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.3302270214176</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.83650893254844</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8365089325484,-26.3302270214176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Anna Maria Harger (Profª.)</name>
+        <description><![CDATA[Value: 7<br>Latitude: -26.323667273989354<br>Longitude: -48.832403288370365<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FF5E5E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>7.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.323667273989354</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.832403288370365</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8324032883704,-26.3236672739894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Edgar M. Castanheira (Prof.)</name>
+        <description><![CDATA[Value: 7<br>Latitude: -26.317526124212474<br>Longitude: -48.81358923100817<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FF5E5E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>7.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.317526124212474</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.81358923100817</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8135892310082,-26.3175261242125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Elizabeth V. Dreifuss (Profª)</name>
+        <description><![CDATA[Value: 7<br>Latitude: -26.33507957912453<br>Longitude: -48.90713480937418<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FF5E5E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>7.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.33507957912453</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.90713480937418</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9071348093742,-26.3350795791245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Júlio M. da Luz (Prof.)</name>
+        <description><![CDATA[Value: 7<br>Latitude: -26.34620076633482<br>Longitude: -48.87854851535602<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FF5E5E-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>7.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.34620076633482</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.87854851535602</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.878548515356,-26.3462007663348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Ada S. da Silveira (Profª.)</name>
+        <description><![CDATA[Value: 6<br>Latitude: -26.345041536717517<br>Longitude: -48.79287057302741<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FF8080-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>6.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.345041536717517</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.79287057302741</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7928705730274,-26.3450415367175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Bernardo Tank (Prof.)</name>
+        <description><![CDATA[Value: 6<br>Latitude: -26.287055600409605<br>Longitude: -48.9224354306997<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FF8080-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>6.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.287055600409605</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.9224354306997</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9224354306997,-26.2870556004096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Pauline Parücker</name>
+        <description><![CDATA[Value: 5<br>Latitude: -26.36874269526849<br>Longitude: -48.82361795953383<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FF8080-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>5.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.36874269526849</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.82361795953383</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8236179595338,-26.3687426952685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Iraci Schmidlin</name>
+        <description><![CDATA[Value: 4<br>Latitude: -26.33587199324327<br>Longitude: -48.811687259534565<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFA2A2-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>4.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.33587199324327</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.811687259534565</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8116872595346,-26.3358719932433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Pão de Mel</name>
+        <description><![CDATA[Value: 4<br>Latitude: -26.346456124330828<br>Longitude: -48.78099549021959<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFA2A2-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>4.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.346456124330828</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.78099549021959</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7809954902196,-26.3464561243308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Teresa Campregher Moreira</name>
+        <description><![CDATA[Value: 4<br>Latitude: -26.265015197017174<br>Longitude: -48.809068144193<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFA2A2-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>4.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.265015197017174</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.809068144193</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.809068144193,-26.2650151970172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Arthur da Costa E Silva</name>
+        <description><![CDATA[Value: 4<br>Latitude: -26.141779699531742<br>Longitude: -48.90174569751557<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFA2A2-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>4.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.141779699531742</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.90174569751557</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9017456975156,-26.1417796995317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Hans Dieter Schmidt (Dr.)</name>
+        <description><![CDATA[Value: 4<br>Latitude: -26.211706726544346<br>Longitude: -48.8253741042167<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFA2A2-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>4.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.211706726544346</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.8253741042167</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8253741042167,-26.2117067265443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Herondina da S. Vieira</name>
+        <description><![CDATA[Value: 3<br>Latitude: -26.34282416016356<br>Longitude: -48.85330373069861<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFC3C3-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>3.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.34282416016356</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.85330373069861</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8533037306986,-26.3428241601636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Peter Pan</name>
+        <description><![CDATA[Value: 3<br>Latitude: -26.29032455951859<br>Longitude: -48.870360744192666<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFC3C3-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>3.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.29032455951859</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.870360744192666</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8703607441927,-26.2903245595186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Avelino Marcante (Prof.)</name>
+        <description><![CDATA[Value: 3<br>Latitude: -26.252954618317766<br>Longitude: -48.841783328850774<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFC3C3-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>3.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.252954618317766</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.841783328850774</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8417833288508,-26.2529546183178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Baltasar Buschle (Pref.)</name>
+        <description><![CDATA[Value: 3<br>Latitude: -26.360934821302415<br>Longitude: -48.806022878549285<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFC3C3-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>3.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.360934821302415</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.806022878549285</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8060228785493,-26.3609348213024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Orestes Guimarães (Prof.)</name>
+        <description><![CDATA[Value: 3<br>Latitude: -26.362990662073795<br>Longitude: -48.82258977302689<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFC3C3-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>3.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.362990662073795</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.82258977302689</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8225897730269,-26.3629906620738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Castelo Branco</name>
+        <description><![CDATA[Value: 2<br>Latitude: -26.253621541561635<br>Longitude: -48.814890501864696<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFC3C3-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>2.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.253621541561635</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.814890501864696</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8148905018647,-26.2536215415616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Eliane Kruger</name>
+        <description><![CDATA[Value: 2<br>Latitude: -26.367968355774345<br>Longitude: -48.82797180186257<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFC3C3-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>2.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.367968355774345</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.82797180186257</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8279718018626,-26.3679683557743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Espinheiros</name>
+        <description><![CDATA[Value: 2<br>Latitude: -26.28028456586673<br>Longitude: -48.79385857857747<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFC3C3-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>2.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.28028456586673</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.79385857857747</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7938585785775,-26.2802845658667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Juliana de Carvalho Vieira</name>
+        <description><![CDATA[Value: 2<br>Latitude: -26.379010873041423<br>Longitude: -48.831669630698045<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFC3C3-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>2.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.379010873041423</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.831669630698045</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.831669630698,-26.3790108730414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Mundo Azul</name>
+        <description><![CDATA[Value: 2<br>Latitude: -26.3192189669738<br>Longitude: -48.875726946041716<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFC3C3-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>2.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.3192189669738</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.875726946041716</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8757269460417,-26.3192189669738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Abdon Baptista (Dr.)</name>
+        <description><![CDATA[Value: 2<br>Latitude: -26.347482768765545<br>Longitude: -48.83529371350618<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFC3C3-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>2.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.347482768765545</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.83529371350618</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8352937135062,-26.3474827687655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Carlos Gomes de Oliveira (Sen.)</name>
+        <description><![CDATA[Value: 2<br>Latitude: -26.23827079278974<br>Longitude: -48.80789358837208<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFC3C3-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>2.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.23827079278974</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.80789358837208</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8078935883721,-26.2382707927897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Carlos Heins Funke (E.A.)</name>
+        <description><![CDATA[Value: 2<br>Latitude: -26.202927983959892<br>Longitude: -48.918962073030066<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFC3C3-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>2.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.202927983959892</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.918962073030066</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9189620730301,-26.2029279839599,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM José Motta Pires (Prof.)</name>
+        <description><![CDATA[Value: 2<br>Latitude: -26.35415675339904<br>Longitude: -48.860432917205394<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFC3C3-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>2.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.35415675339904</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.860432917205394</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8604329172054,-26.354156753399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Lacy L. da Cruz Flores</name>
+        <description><![CDATA[Value: 2<br>Latitude: -26.383452315437847<br>Longitude: -48.821704107411136<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFC3C3-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>2.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.383452315437847</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.821704107411136</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8217041074111,-26.3834523154378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Lauro Carneiro de Loyola (dep.)</name>
+        <description><![CDATA[Value: 2<br>Latitude: -26.356245716873197<br>Longitude: -48.842684420904696<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFC3C3-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>2.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.356245716873197</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.842684420904696</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8426844209047,-26.3562457168732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Geraldo Wetzel (Pref.)</name>
+        <description><![CDATA[Value: 1<br>Latitude: -26.33072329497071<br>Longitude: -48.81425950186315<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.33072329497071</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.81425950186315</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8142595018631,-26.3307232949707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Joaquim F. Moreira (Pref.)</name>
+        <description><![CDATA[Value: 1<br>Latitude: -26.34389306876083<br>Longitude: -48.77287303499676<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.34389306876083</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.77287303499676</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7728730349968,-26.3438930687608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Paul Harris</name>
+        <description><![CDATA[Value: 1<br>Latitude: -26.31908925011339<br>Longitude: -48.87450784049285<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.31908925011339</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.87450784049285</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8745078404929,-26.3190892501134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Sebastião Scarzello (Mons.)</name>
+        <description><![CDATA[Value: 1<br>Latitude: -26.32988516803824<br>Longitude: -48.83141348652062<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>1.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.32988516803824</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.83141348652062</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8314134865206,-26.3298851680382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Abdon da Silveira</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.339770540432575<br>Longitude: -48.79395631965427<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.339770540432575</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.79395631965427</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7939563196543,-26.3397705404326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Adhemar Garcia</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.315331260843184<br>Longitude: -48.80391734419205<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.315331260843184</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.80391734419205</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8039173441921,-26.3153312608432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Adolfo Artmann</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.264474598312475<br>Longitude: -48.84373894898358<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.264474598312475</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.84373894898358</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8437389489836,-26.2644745983125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Alegria de Viver</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.345629923095423<br>Longitude: -48.791823001862895<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.345629923095423</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.791823001862895</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7918230018629,-26.3456299230954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Alzelir T. G. Pacheco</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.27289671940194<br>Longitude: -48.87886204419301<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.27289671940194</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.87886204419301</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.878862044193,-26.2728967194019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Amandos Finder</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.264440423051347<br>Longitude: -48.80097573070019<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.264440423051347</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.80097573070019</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8009757307002,-26.2644404230513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Antônio Brühmüller</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.344283064778374<br>Longitude: -48.80206268652037<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.344283064778374</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.80206268652037</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8020626865204,-26.3442830647784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Arte e Vida</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.25331131893827<br>Longitude: -48.806861828850785<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.25331131893827</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.806861828850785</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8068618288508,-26.2533113189383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Aventuras de Criança</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.244670263708684<br>Longitude: -48.812312815357764<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.244670263708684</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.812312815357764</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8123128153578,-26.2446702637087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Beija Flor</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.348691541872405<br>Longitude: -48.83274727487691<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.348691541872405</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.83274727487691</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8327472748769,-26.3486915418724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Bem Me Quer</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.206974594105866<br>Longitude: -48.82951545953708<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.206974594105866</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.82951545953708</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8295154595371,-26.2069745941059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Bianca Carolina Pinheiro</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.2773710809117<br>Longitude: -48.90330454604253<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.2773710809117</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.90330454604253</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9033045460425,-26.2773710809117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Botãozinho de Rosa</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.324123325997196<br>Longitude: -48.82872863069901<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.324123325997196</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.82872863069901</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.828728630699,-26.3241233259972,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Branca de Neve</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.26773046493435<br>Longitude: -48.87377198652167<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.26773046493435</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.87377198652167</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8737719865217,-26.2677304649343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Cachinhos de Ouro</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.204328012323977<br>Longitude: -48.90974150186579<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.204328012323977</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.90974150186579</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9097415018658,-26.204328012324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Cachinhos de Ouro Extensão</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.18142400130733<br>Longitude: -48.91059992184964<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.18142400130733</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.91059992184964</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9105999218496,-26.1814240013073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Celio G. de Oliveira</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.356910045381195<br>Longitude: -48.845983517205404<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.356910045381195</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.845983517205404</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8459835172054,-26.3569100453812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Ciranda Cirandinha</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.268878666836976<br>Longitude: -48.804901886521925<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.268878666836976</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.804901886521925</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8049018865219,-26.268878666837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Doce Infância</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.33096625416472<br>Longitude: -48.86713371720581<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.33096625416472</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.86713371720581</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8671337172058,-26.3309662541647,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Espaço da Criança</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.328378538488725<br>Longitude: -48.803240717205846<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.328378538488725</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.803240717205846</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8032407172058,-26.3283785384887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Espaço Encantado</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.312455939103213<br>Longitude: -48.840544378576965<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.312455939103213</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.840544378576965</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.840544378577,-26.3124559391032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Esperança</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.281909168694533<br>Longitude: -48.80068543069989<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.281909168694533</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.80068543069989</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8006854306999,-26.2819091686945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Felícia Cardoso Vieira</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.270005289431342<br>Longitude: -48.88938743070004<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.270005289431342</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.88938743070004</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8893874307,-26.2700052894313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Girassol</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.268622224730198<br>Longitude: -48.86963245953592<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.268622224730198</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.86963245953592</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8696324595359,-26.2686222247302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Itaum</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.327487127894965<br>Longitude: -48.84411600186338<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.327487127894965</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.84411600186338</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8441160018634,-26.327487127895,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Ivan Rodrigues</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.27051819023892<br>Longitude: -48.82654310371411<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.27051819023892</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.82654310371411</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8265431037141,-26.2705181902389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Jardim Sofia</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.23772433864187<br>Longitude: -48.83168398837194<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.23772433864187</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.83168398837194</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8316839883719,-26.2377243386419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Jorge L. Vanderwegen</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.338463482285885<br>Longitude: -48.840113528849<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.338463482285885</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.840113528849</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.840113528849,-26.3384634822859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI José Francisco Vieira</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.244962018435434<br>Longitude: -48.81748853070053<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.244962018435434</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.81748853070053</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8174885307005,-26.2449620184354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Juarez Machado</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.339016238206106<br>Longitude: -48.83298214604142<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.339016238206106</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.83298214604142</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8329821460414,-26.3390162382061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Justina Rosa Fachini</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.32792936033327<br>Longitude: -48.90850191720588<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.32792936033327</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.90850191720588</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9085019172059,-26.3279293603333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Luiza Maria Veiga</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.323002240279155<br>Longitude: -48.83036747302781<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.323002240279155</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.83036747302781</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8303674730278,-26.3230022402792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Maria Laura C. Eleotéreo</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.326750966732128<br>Longitude: -48.79273118837031<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.326750966732128</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.79273118837031</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7927311883703,-26.3267509667321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Marilene dos P. Santos</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.33917905350211<br>Longitude: -48.770310473027344<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.33917905350211</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.770310473027344</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7703104730273,-26.3391790535021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Mario Avancini</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.26246709891882<br>Longitude: -48.818842659535996<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.26246709891882</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.818842659535996</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.818842659536,-26.2624670989188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Meu Pequeno Mundo</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.319868335290668<br>Longitude: -48.80452249022002<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.319868335290668</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.80452249022002</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.80452249022,-26.3198683352907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Miosótis</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.3260758295635<br>Longitude: -48.81551713069903<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.3260758295635</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.81551713069903</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.815517130699,-26.3260758295635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Miraci Dereti</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.285343874673888<br>Longitude: -48.7792142730286<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.285343874673888</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.7792142730286</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7792142730286,-26.2853438746739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Monteiro Lobato</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.35728316749433<br>Longitude: -48.79191864604106<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.35728316749433</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.79191864604106</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7919186460411,-26.3572831674943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Morro do Meio</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.335936164576733<br>Longitude: -48.90514314419189<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.335936164576733</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.90514314419189</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9051431441919,-26.3359361645767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Odorico Fortunato</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.244470989369354<br>Longitude: -48.795760400015276<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.244470989369354</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.795760400015276</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7957604000153,-26.2444709893694,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Paraíso da Criança</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.211728297783168<br>Longitude: -48.824657688372525<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.211728297783168</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.824657688372525</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8246576883725,-26.2117282977832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Parque Guarani</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.361369820351953<br>Longitude: -48.81273014234175<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.361369820351953</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.81273014234175</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8127301423417,-26.361369820352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Pedacinho do Céu</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.303202005773887<br>Longitude: -48.81461764604217<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.303202005773887</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.81461764604217</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8146176460422,-26.3032020057739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Pedro Ivo F. Campos</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.319624900839234<br>Longitude: -48.81720584604175<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.319624900839234</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.81720584604175</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8172058460418,-26.3196249008392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Pedro Paulo Hings Colin</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.38287233340668<br>Longitude: -48.820461930697874<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.38287233340668</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.820461930697874</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8204619306979,-26.3828723334067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Pequena Sereia</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.282612527393564<br>Longitude: -48.88212734419278<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.282612527393564</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.88212734419278</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8821273441928,-26.2826125273936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Pequeno Príncipe</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.371794349962034<br>Longitude: -48.84065645953398<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.371794349962034</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.84065645953398</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.840656459534,-26.371794349962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Ponte Serrada</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.272771852791386<br>Longitude: -48.802407086521576<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.272771852791386</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.802407086521576</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8024070865216,-26.2727718527914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Raio de Sol</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.28460035386336<br>Longitude: -48.89897973069995<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.28460035386336</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.89897973069995</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8989797306999,-26.2846003538634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Salete Konecki</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.30051253748348<br>Longitude: -48.90315994419251<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.30051253748348</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.90315994419251</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9031599441925,-26.3005125374835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Sementinha</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.272626191014304<br>Longitude: -48.81333827302873<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.272626191014304</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.81333827302873</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8133382730287,-26.2726261910143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Sigelfrid Poffo</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.2853905942065<br>Longitude: -48.90254337302846<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.2853905942065</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.90254337302846</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9025433730285,-26.2853905942065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Sol Nascente</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.331238054638582<br>Longitude: -48.83234827302768<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.331238054638582</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.83234827302768</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8323482730277,-26.3312380546386,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Sonho de Criança</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.27539519791726<br>Longitude: -48.88586264604265<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.27539519791726</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.88586264604265</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8858626460427,-26.2753951979173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CEI Zilda Arns Neumann</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.357842047317778<br>Longitude: -48.81677864419139<br>Tipo: CEI]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.357842047317778</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.81677864419139</value>
+          </Data>
+          <Data name="Tipo">
+            <value>CEI</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8167786441914,-26.3578420473178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Adolpho Bartsch</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.214565123788073<br>Longitude: -48.90083527302984<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.214565123788073</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.90083527302984</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9008352730298,-26.2145651237881,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Alfonso Fiedler (Prof.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.19544456461811<br>Longitude: -48.82056027303026<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.19544456461811</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.82056027303026</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8205602730303,-26.1954445646181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Alfredo Germano H. Hardt</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.189986255111346<br>Longitude: -48.90041030186589<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.189986255111346</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.90041030186589</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9004103018659,-26.1899862551113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Alire Carneiro (Cel.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.223966969373965<br>Longitude: -48.83391238897112<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.223966969373965</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.83391238897112</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8339123889711,-26.223966969374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Aluizius Sehnem (Prof.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.290222030886106<br>Longitude: -48.776087532549354<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.290222030886106</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.776087532549354</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7760875325494,-26.2902220308861,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Amador Aguiar</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.332254063055984<br>Longitude: -48.797819888370135<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.332254063055984</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.797819888370135</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7978198883701,-26.332254063056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Anita Garibaldi</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.32271508884324<br>Longitude: -48.858479803713166<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.32271508884324</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.858479803713166</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8584798037132,-26.3227150888432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Arinor Vogelsanger (Ver.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.277057960250577<br>Longitude: -48.90665854419306<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.277057960250577</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.90665854419306</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9066585441931,-26.2770579602506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Castello Branco (Pres.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.29940499061158<br>Longitude: -48.81675793624848<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.29940499061158</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.81675793624848</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8167579362485,-26.2994049906116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Curt Alvino Monich (Ver.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.240489596646327<br>Longitude: -48.80126487117962<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.240489596646327</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.80126487117962</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8012648711796,-26.2404895966463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Emílio Stock Jr. (Prof.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.341786687806454<br>Longitude: -48.99048854419165<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.341786687806454</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.99048854419165</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9904885441916,-26.3417866878065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Eugênio Klug</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.200501321276157<br>Longitude: -48.932128930701445<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.200501321276157</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.932128930701445</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9321289307014,-26.2005013212762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Evaldo Koehler (E. I.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.231266452425164<br>Longitude: -48.9222555748792<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.231266452425164</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.9222555748792</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9222555748792,-26.2312664524252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Francisco J.R. de Oliveira (Caic)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.280425008249566<br>Longitude: -48.793856765084335<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.280425008249566</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.793856765084335</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7938567650843,-26.2804250082496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Francisco Rieper (Prof.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.187291686983055<br>Longitude: -48.93483927303026<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.187291686983055</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.93483927303026</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9348392730303,-26.1872916869831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Fritz Benkendorf</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.20958582307736<br>Longitude: -48.875289217208376<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.20958582307736</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.875289217208376</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8752892172084,-26.2095858230774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Germano Lenschow (E. I.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.171611777069323<br>Longitude: -48.99378525953769<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.171611777069323</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.99378525953769</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9937852595377,-26.1716117770693,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Hans Müller (Pastor)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.29063860290861<br>Longitude: -48.87051481535705<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.29063860290861</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.87051481535705</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.870514815357,-26.2906386029086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Heriberto Hulse (Gov.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.307217171682442<br>Longitude: -48.82753371905592<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.307217171682442</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.82753371905592</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8275337190559,-26.3072171716824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Hermann Müller</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.134073756328412<br>Longitude: -48.884535330702676<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.134073756328412</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.884535330702676</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8845353307027,-26.1340737563284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Honório Saldo</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.143225396663595<br>Longitude: -49.001306646045<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.143225396663595</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.001306646045</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -49.001306646045,-26.1432253966636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Hubert Hubener (Ver.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.131583443371934<br>Longitude: -49.00970735768878<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.131583443371934</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-49.00970735768878</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -49.0097073576888,-26.1315834433719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Isabel S. Machado (Profª)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.224326819544064<br>Longitude: -48.80792163070104<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.224326819544064</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.80792163070104</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.807921630701,-26.2243268195441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM João Meerholz (E. I.) (Prof.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.37073351119531<br>Longitude: -48.95520527302677<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.37073351119531</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.95520527302677</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9552052730268,-26.3707335111953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM José Antônio N. Lins (Dr.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.282398871062618<br>Longitude: -48.79909580001463<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.282398871062618</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.79909580001463</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7990958000146,-26.2823988710626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM José do Patrocínio</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.206885560419128<br>Longitude: -48.80076324419417<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.206885560419128</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.80076324419417</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8007632441942,-26.2068855604191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Laura Andrade (Profª)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.26307910167286<br>Longitude: -48.8131453172072<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.26307910167286</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.8131453172072</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8131453172072,-26.2630791016729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Maestro Francisco Manoel</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.286862312638224<br>Longitude: -48.917080544192785<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.286862312638224</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.917080544192785</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9170805441928,-26.2868623126382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Maria M. Mazzolli (E. R.) (Profª)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.22843322403449<br>Longitude: -48.85835351535827<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.22843322403449</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.85835351535827</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8583535153583,-26.2284332240345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Mariano Costa (Caic Prof.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.31564187663082<br>Longitude: -48.803797500014035<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.31564187663082</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.803797500014035</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.803797500014,-26.3156418766308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Nelson de M. Coutinho</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.33737655020845<br>Longitude: -48.80398921720586<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.33737655020845</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.80398921720586</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8039892172059,-26.3373765502085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Nilson Wilson Bender (Pref.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.338813282866923<br>Longitude: -48.7705540325483<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.338813282866923</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.7705540325483</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7705540325483,-26.3388132828669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Nove de Março</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.384434369936805<br>Longitude: -48.84001527302648<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.384434369936805</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.84001527302648</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8400152730265,-26.3844343699368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Oswaldo Cabral (Prof.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.34018055533219<br>Longitude: -48.82376517302732<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.34018055533219</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.82376517302732</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8237651730273,-26.3401805553322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Otto Ristow Filho</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.168283208513405<br>Longitude: -48.89692308652367<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.168283208513405</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.89692308652367</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8969230865237,-26.1682832085134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Padre Carlos</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.31468870876893<br>Longitude: -48.94767111535652<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.31468870876893</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.94767111535652</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9476711153565,-26.3146887087689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Pedro Ivo Campos (Gov.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.264787481218015<br>Longitude: -48.88590633070007<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.264787481218015</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.88590633070007</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8859063307001,-26.264787481218,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Reinaldo P. de França (Prof.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.301909003521466<br>Longitude: -48.76305000186381<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.301909003521466</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.76305000186381</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.7630500018638,-26.3019090035215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Rosa Maria B. Demarchi (Profª)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.212164813794956<br>Longitude: -48.82408695768728<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.212164813794956</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.82408695768728</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8240869576873,-26.212164813795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Ruben Roberto Schmidlin (Dr.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.327886885104938<br>Longitude: -48.90697948837028<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.327886885104938</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.90697948837028</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9069794883703,-26.3278868851049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Sadalla Amin Ghanem (Dr.)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.360762232535482<br>Longitude: -48.81276780186258<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.360762232535482</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.81276780186258</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8127678018626,-26.3607622325355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Saul S. Oliveira Dias</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.345194777597357<br>Longitude: -48.80451552884904<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.345194777597357</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.80451552884904</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.804515528849,-26.3451947775974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Senhorinha Soares (Profª)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.31468359641195<br>Longitude: -48.927794837445745<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.31468359641195</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.927794837445745</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9277948374457,-26.3146835964119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Sete de Setembro</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.12603642862547<br>Longitude: -48.926317501867125<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.12603642862547</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.926317501867125</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9263175018671,-26.1260364286255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Sylvio Sniecikovski</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.205959462691585<br>Longitude: -48.82992600186575<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.205959462691585</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.82992600186575</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8299260018658,-26.2059594626916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Thereza M. Hreisemnou (Profª)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.21879373385312<br>Longitude: -48.81071662885146<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.21879373385312</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.81071662885146</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8107166288515,-26.2187937338531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Valesca M. Engelmann (Profª)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.288529999411857<br>Longitude: -48.96602873069977<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.288529999411857</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.96602873069977</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.9660287306998,-26.2885299994119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Virgínia Soares (Profª)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.342541962609005<br>Longitude: -48.85250784234202<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.342541962609005</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.85250784234202</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.852507842342,-26.342541962609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EM Zulma do Rosário Miranda (Profª)</name>
+        <description><![CDATA[Value: 0<br>Latitude: -26.278351682224898<br>Longitude: -48.88493090186427<br>Tipo: EM]]></description>
+        <styleUrl>#icon-1899-FFE5E5-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="Value">
+            <value>0.0</value>
+          </Data>
+          <Data name="Latitude">
+            <value>-26.278351682224898</value>
+          </Data>
+          <Data name="Longitude">
+            <value>-48.88493090186427</value>
+          </Data>
+          <Data name="Tipo">
+            <value>EM</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -48.8849309018643,-26.2783516822249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
