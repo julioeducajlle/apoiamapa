@@ -33,7 +33,7 @@ function initMap() {
     radius: 26,
   });
   const escolaLayer = new google.maps.KmlLayer({
-    url: "/HeatMap09072021.kml",
+    url: "HeatMap09072021.kml",
     map: map,
   });
 }
