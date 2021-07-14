@@ -32,10 +32,20 @@ function initMap() {
     map: map,
     radius: 26,
   });
-  var ctaLayer = new google.maps.KmlLayer({
-    url: 'https://raw.githubusercontent.com/julioeducajlle/apoiamapa/main/Unidades13072021.kml',
+
+  ctaLayer = new google.maps.KmlLayer({
+    url: 'http://apoia.rf.gd/Unidades13072021.kml',
     map: map
   });
+
+document
+    .getElementById("toggle-Kml")
+    .addEventListener("click", toggleKml);
+  
+}
+
+function toggleKml() {
+  ctaLayer.setMap(ctaLayer.getMap() ? null : map);
 }
 
 function getPoints() {
