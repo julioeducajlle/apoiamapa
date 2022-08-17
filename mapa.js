@@ -156,6 +156,6 @@ function getPoints() {
 {location: new google.maps.LatLng(-26.202927983959892, -48.918962073030066), weight: 1},
 {location: new google.maps.LatLng(-26.341786687806454, -48.99048854419165), weight: 1},
 {location: new google.maps.LatLng(-26.29063860290861, -48.87051481535705), weight: 1},
-{location: new google.maps.LatLng(-26.288529999411857, -48.96602873069977), weight: 1},
+{location: new google.maps.LatLng(-26.288529999411857, -48.96602873069977), weight: 1}
   ];
 }
