@@ -30,7 +30,7 @@ function initMap() {
   heatmap = new google.maps.visualization.HeatmapLayer({
     data: getPoints(),
     map: map,
-    radius: 300,
+    radius: 26,
   });
 
   ctaLayer = new google.maps.KmlLayer({
