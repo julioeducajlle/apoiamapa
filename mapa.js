@@ -34,7 +34,7 @@ function initMap() {
   });
 
   ctaLayer = new google.maps.KmlLayer({
-    url: 'http://apoia.rf.gd/Unidades13072021.kml',
+    url: 'Unidades13072021.kml',
     map: map,
     preserveViewport: true,
   });
