@@ -34,7 +34,7 @@ function initMap() {
   });
 
   ctaLayer = new google.maps.KmlLayer({
-    url: 'Mapa APOIA 17082022.kml',
+    url: './UES17082022.kml',
     map: map,
     preserveViewport: true,
   });
