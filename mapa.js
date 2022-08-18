@@ -34,7 +34,7 @@ function initMap() {
   });
 
   ctaLayer = new google.maps.KmlLayer({
-    url: './UES17082022.kml',
+    url: 'https://github.com/julioeducajlle/apoiamapa/blob/main/UES17082022.kml',
     map: map,
     preserveViewport: true,
   });
