@@ -1,0 +1,3 @@
+http://maps.google.com/mapfiles/kml/paddle/grn-blank_maps.png
+http://maps.google.com/mapfiles/kml/paddle/ylw-blank_maps.png
+http://maps.google.com/mapfiles/kml/paddle/red-blank_maps.png
