@@ -7,7 +7,7 @@
         <color>ff42b37c</color>
         <scale>1</scale>
         <Icon>
-          <href>https://raw.githubusercontent.com/julioeducajlle/apoiamapa/main/pinpoint.png</href>
+          <href>http://maps.google.com/mapfiles/kml/paddle/grn-blank_maps.png</href>
         </Icon>
         <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
       </IconStyle>
@@ -17,7 +17,7 @@
         <color>ff2dc0fb</color>
         <scale>1</scale>
         <Icon>
-          <href>https://raw.githubusercontent.com/julioeducajlle/apoiamapa/main/pinpoint.png</href>
+          <href>http://maps.google.com/mapfiles/kml/paddle/ylw-blank_maps.png</href>
         </Icon>
         <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
       </IconStyle>
@@ -27,7 +27,7 @@
         <color>ff5252ff</color>
         <scale>1</scale>
         <Icon>
-          <href>https://raw.githubusercontent.com/julioeducajlle/apoiamapa/main/pinpoint.png</href>
+          <href>http://maps.google.com/mapfiles/kml/paddle/red-blank_maps.png</href>
         </Icon>
         <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
       </IconStyle>
