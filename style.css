@@ -13,8 +13,8 @@ body {
 }
 
 #floating-panel {
-  position: relative;
-  top: 10px;
+  position: absolute;
+  top: 50px;
   left: 10px;
   z-index: 5;
   background-color: #fff;
