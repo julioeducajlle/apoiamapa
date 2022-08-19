@@ -31,7 +31,6 @@ function initMap() {
     data: getPoints(),
     map: map,
     radius: 40,
-    dissipating: false,
   });
 
   ctaLayer = new google.maps.KmlLayer({
