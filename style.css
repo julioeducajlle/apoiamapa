@@ -12,7 +12,22 @@ body {
   padding: 0;
 }
 
-#floating-panel {
+#floating-panel1 {
+  position: absolute;
+  top: 10px;
+  left: 50%;
+  z-index: 5;
+  background-color: #fff;
+  padding: 5px;
+  border: 1px solid #999;
+  text-align: left;
+  font-family: "Roboto", "sans-serif";
+  font-size: 14px;
+  line-height: 30px;
+  padding-left: 10px;
+}
+
+#floating-panel2 {
   position: absolute;
   top: 100px;
   left: 10px;
@@ -22,6 +37,7 @@ body {
   border: 1px solid #999;
   text-align: left;
   font-family: "Roboto", "sans-serif";
+  font-size: 14px;
   line-height: 30px;
   padding-left: 10px;
 }
